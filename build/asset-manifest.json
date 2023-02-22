@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.80ce3c88.css",
+    "main.js": "/static/js/main.60dd1919.js",
+    "static/media/me.png": "/static/media/me.5498b0bc7822e1f174b1.png",
+    "static/media/portfolio4.jpg": "/static/media/portfolio4.0d9b54cf353cafbfd965.jpg",
+    "static/media/GoogleDataAnalytics_certificate.pdf": "/static/media/GoogleDataAnalytics_certificate.ff0082301338865fffba.pdf",
+    "static/media/DataScientistWithPython_certificate.pdf": "/static/media/DataScientistWithPython_certificate.5c04de2010a7f61d59a5.pdf",
+    "static/media/DataAnalystInSQL_certificate.pdf": "/static/media/DataAnalystInSQL_certificate.218ff3398c170f8da3a6.pdf",
+    "static/media/portfolio5.png": "/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
+    "static/media/cv.pdf": "/static/media/cv.7fc31b5e7311d54bd393.pdf",
+    "static/media/me-about.jpg": "/static/media/me-about.ab32a9fde3c0e3994a48.jpg",
+    "static/media/portfolio2.jpg": "/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
+    "static/media/portfolio6.jpg": "/static/media/portfolio6.72d1107e313049cf15a7.jpg",
+    "static/media/portfolio1.jpg": "/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
+    "static/media/portfolio3.jpg": "/static/media/portfolio3.cbab42559fe73e73906f.jpg",
+    "index.html": "/index.html",
+    "main.80ce3c88.css.map": "/static/css/main.80ce3c88.css.map",
+    "main.60dd1919.js.map": "/static/js/main.60dd1919.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80ce3c88.css",
+    "static/js/main.60dd1919.js"
+  ]
+}

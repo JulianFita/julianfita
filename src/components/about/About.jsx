@@ -32,15 +32,16 @@ const About = () => {
           </div>
 
           <p>
-          Hi, my name is Julian and I am a Data Analyst. I love to analyze data and through these to be able to provide help in decision making.<br /><br />
+          As an accomplished Data Analyst, my expertise lies in leveraging data to uncover valuable insights that drive informed decision-making. I possess a strong analytical mindset and am passionate about solving complex problems through the use of data.<br /><br />
 
-The Internet offers unlimited possibilities for those who take them. I have been fortunate to meet wonderful people who have guided me and helped me improve professionally day by day.<br /><br />
+My unwavering commitment to precision and accuracy is evident in everything I do. I am meticulous in my attention to detail, ensuring that every analysis is conducted with the utmost rigor and care. I am also a highly organized individual, capable of managing complex data sets and delivering results within tight deadlines.<br /><br />
 
-I consider myself a very meticulous, orderly, and detailed person. I hate doing things halfway, it's not for me.<br /><br />
 
-I enjoy working in a team and being able to communicate well with my team thanks to it.<br /><br />
+Collaboration is a cornerstone of my work style, and I thrive in team environments where diverse perspectives are valued. I possess excellent communication skills, both written and verbal, and am adept at conveying complex data findings clearly and concisely.<br /><br />
 
-I am excited and passionate about video games. I played the various versions of “counter-strike” for many years and I even had the opportunity to compete in this discipline. Thanks to this, I met amazing people who have taught me skills that have helped me to be who I am today. Last but not least, thanks to this experience I was able to discover my passion for data, and that eventually led me to become a Data Analyst.
+In addition to my professional pursuits, I am a dedicated video game enthusiast. Through my experience playing and competing in "counter-strike," I have honed my analytical and strategic thinking skills, which have proved invaluable in my career as a Data Analyst.<br /><br />
+
+I am committed to staying at the forefront of the data analysis field and continuously expanding my knowledge and skills. I am excited about the opportunity to bring my expertise and passion to a dynamic team and contribute to the success of the organization.
           </p>
 
           <a href='#contact' className='btn btn-primary'>Let's Talk</a>

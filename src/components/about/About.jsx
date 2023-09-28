@@ -32,16 +32,16 @@ const About = () => {
           </div>
 
           <p>
-          As an accomplished Data Analyst, my expertise lies in leveraging data to uncover valuable insights that drive informed decision-making. I possess a strong analytical mindset and am passionate about solving complex problems through the use of data.<br /><br />
+          As an accomplished Data Scientist, I specialize in harnessing the power of data to unearth valuable insights that underpin well-informed decision-making. My professional identity is rooted in a robust analytical mindset, complemented by an unwavering dedication to tackling intricate problems through data-driven solutions.<br /><br />
 
-My unwavering commitment to precision and accuracy is evident in everything I do. I am meticulous in my attention to detail, ensuring that every analysis is conducted with the utmost rigor and care. I am also a highly organized individual, capable of managing complex data sets and delivering results within tight deadlines.<br /><br />
+The hallmark of my work is precision and accuracy, evident in my meticulous attention to detail, ensuring that each analysis I undertake adheres to the highest standards of rigor and care. My professional acumen extends to adeptly managing intricate data sets and delivering results within demanding time constraints.<br /><br />
 
 
-Collaboration is a cornerstone of my work style, and I thrive in team environments where diverse perspectives are valued. I possess excellent communication skills, both written and verbal, and am adept at conveying complex data findings clearly and concisely.<br /><br />
+My work ethos is inherently collaborative, thriving within team environments that value diverse perspectives. My communication skills, both written and verbal, are exemplary, enabling me to convey complex data findings with clarity and conciseness.<br /><br />
 
-In addition to my professional pursuits, I am a dedicated video game enthusiast. Through my experience playing and competing in "counter-strike," I have honed my analytical and strategic thinking skills, which have proved invaluable in my career as a Data Analyst.<br /><br />
+Beyond my professional commitments, I am an ardent enthusiast of video gaming. My extensive experience in playing and competing in "Counter-Strike" has honed my analytical and strategic thinking abilities, skills that have found invaluable application in my role as a Data Scientist.<br /><br />
 
-I am committed to staying at the forefront of the data analysis field and continuously expanding my knowledge and skills. I am excited about the opportunity to bring my expertise and passion to a dynamic team and contribute to the success of the organization.
+I maintain a steadfast commitment to staying at the forefront of the ever-evolving data analysis field, continuously expanding my knowledge and skillset. I am eagerly poised to contribute my expertise and passion to a dynamic team, thereby enhancing the organization's prospects for success.
           </p>
 
           <a href='#contact' className='btn btn-primary'>Let's Talk</a>

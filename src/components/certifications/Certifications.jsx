@@ -3,7 +3,7 @@ import './certifications.css'
 import AVTR1 from '../../assets/courseraGoogleAvatar1.jpg'
 import AVTR2 from '../../assets/avatar2.png'
 import CTFC1 from '../../assets/GoogleDataAnalytics_certificate.pdf'
-import CTFC2 from '../../DataScientistAssociateCertification.pdf'
+import CTFC2 from '../../assets/DataScientistAssociateCertification.pdf'
 
 // import Swiper core and required modules
 import {Pagination} from 'swiper';
